@@ -3,7 +3,7 @@ Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar
 Seu objetivo é descobrir qual interruptor controla qual lâmpada.Como você faria para descobrir,
 usando apenas duas idas até uma das salas das lâmpadas,qual interruptor controla cada lâmpada? 
 
-Se eu conseguisse ir em 2 salar ao invés de 1, poderia ligar o primeiro interrupitor por alguns minutos e desligar,
+Se eu conseguisse ir em 2 salas ao invés de 1, poderia ligar o primeiro interrupitor por alguns minutos e desligar,
 em seguida ligaria o segundo interruptor e iria até a sala de uma das lampadas
 - Se a lampada estivir ligada o segundo interrupitor está comnectado a ela
 - Se ela estiver quente o primeiro interrupitor está conectado a ela
