@@ -1,6 +1,10 @@
 import math
 
 def fibonacci_sequence_number(x):
+
+    if x < 0: 
+        return False
+
     n = x * x
 
     calculus_1 = (5 * n + 4)
